@@ -1,4 +1,10 @@
 {
-  "content": "{\n  \"brand\":\"FORMEN\",\n  \"currency\":\"USD\",\n  \"products\":[\n    {\"id\":\"001\",\"name\":\"The Aesthetic Code — Arms Domination Protocol\",\"shortName\":\"Arms Domination Protocol\",\"price\":9.99,\"category\":\"Physique\",\"cover\":\"images/products/aesthetic-code-arms.svg\",\"payhip\":\"PAYHIP_AESTHETIC_CODE_ARMS\"},\n    {\"id\":\"002\",\"name\":\"The Aesthetic Code — V Taper Back Protocol\",\"shortName\":\"V Taper Back Protocol\",\"price\":4.99,\"category\":\"Physique\",\"cover\":\"images/products/aesthetic-code-back.svg\",\"payhip\":\"PAYHIP_AESTHETIC_CODE_BACK\"},\n    {\"id\":\"003\",\"name\":\"The Aesthetic Code — Elite Version\",\"shortName\":\"Elite Version\",\"price\":9.99,\"category\":\"Physique / Presence\",\"cover\":\"images/products/aesthetic-code-elite.svg\",\"payhip\":\"PAYHIP_AESTHETIC_CODE_ELITE\"},\n    {\"id\":\"004\",\"name\":\"The Aesthetic Code — Core Protocol\",\"shortName\":\"Core Protocol\",\"price\":4.99,\"category\":\"Performance\",\"cover\":\"images/products/aesthetic-code-core.svg\",\"payhip\":\"PAYHIP_AESTHETIC_CODE_CORE\"}\n  ]\n}\n",
-  "encoding": "utf-8"
+  "brand": "FORMEN",
+  "currency": "USD",
+  "products": [
+    {"id":"001","name":"The Aesthetic Code — Arms Domination Protocol","shortName":"Arms Domination Protocol","price":9.99,"category":"Physique","cover":"images/products/aesthetic-code-arms.svg","payhip":"PAYHIP_AESTHETIC_CODE_ARMS"},
+    {"id":"002","name":"The Aesthetic Code — V Taper Back Protocol","shortName":"V Taper Back Protocol","price":4.99,"category":"Physique","cover":"images/products/aesthetic-code-back.svg","payhip":"PAYHIP_AESTHETIC_CODE_BACK"},
+    {"id":"003","name":"The Aesthetic Code — Elite Version","shortName":"Elite Version","price":9.99,"category":"Physique / Presence","cover":"images/products/aesthetic-code-elite.svg","payhip":"PAYHIP_AESTHETIC_CODE_ELITE"},
+    {"id":"004","name":"The Aesthetic Code — Core Protocol","shortName":"Core Protocol","price":4.99,"category":"Performance","cover":"images/products/aesthetic-code-core.svg","payhip":"PAYHIP_AESTHETIC_CODE_CORE"}
+  ]
 }
