@@ -1,0 +1,12 @@
+{
+  "brand":"FORMEN",
+  "currency":"USD",
+  "products":[
+    {"id":"001","name":"The Aesthetic Code","price":9.99,"category":"Physique / Presence","payhip":"PAYHIP_AESTHETIC_CODE"},
+    {"id":"002","name":"Chest Protocol","price":4.99,"category":"Physique","payhip":"PAYHIP_CHEST_PROTOCOL"},
+    {"id":"003","name":"Face Framework","price":4.99,"category":"Presence","payhip":"PAYHIP_FACE_FRAMEWORK"},
+    {"id":"004","name":"Back Protocol","price":4.99,"category":"Physique","payhip":"PAYHIP_BACK_PROTOCOL"},
+    {"id":"005","name":"Core Protocol","price":4.99,"category":"Performance","payhip":"PAYHIP_CORE_PROTOCOL"},
+    {"id":"006","name":"Complete Collection","price":24.99,"category":"Bundle","payhip":"PAYHIP_COMPLETE_COLLECTION"}
+  ]
+}
